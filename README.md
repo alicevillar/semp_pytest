@@ -11,7 +11,6 @@ The following task involves experimenting with pytest using the Python programmi
 Copy the following code into a file named wallet.py:
 
 ```
-* wallet.py
  class InsufficientAmount(Exception):
     pass
   
@@ -35,7 +34,6 @@ class Wallet(object):
 Copy the following code into a file named test_wallet.py:
 
 ```
-* test_wallet.py
  import pytest
 from wallet import Wallet, InsufficientAmount
 
