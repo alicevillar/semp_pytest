@@ -75,13 +75,11 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 * Result for Task 1:
 Using Pycharm, I run the the command pytest -q test_wallet.py and 5 tests passed in 0.19s. Click [here](https://github.com/alicevillar/semp_pytest/blob/main/assets/pytest-1.JPG) to see the output.  
 
-![print](/assets/pytest-1.JPG)
-
 * Result for Task 2: 
 
 Inside the function ``` test_wallet_spend_cash_raises_exception_on_insufficient_amount()```, I defined the value 120 and then instantiated the class Wallet: 
  ``` wallet = Wallet(120)```  Given that the method spend_cash is 100, it will not raise the class InsufficientAmount() and therefore will generate and error because the test couldn't be done. Click [here](https://github.com/alicevillar/semp_pytest/blob/main/assets/pytest-2.JPG) to see the output.  
  
- ![print](/assets/pytest-2.JPG)
+
 
 
