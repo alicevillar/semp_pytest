@@ -75,7 +75,7 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 * Result for Task 1:
 Using Pycharm, I run the the command pytest -q test_wallet.py and 5 tests passed in 0.19s. Clice [here](https://github.com/alicevillar/semp_pytest/blob/main/assets/pytest-1.JPG) to see the output.  
 
-![print](asset/pytest-1.jpg)
+![print](/assets/pytest-1.jpg)
 
 * Result for Task 2: 
 
