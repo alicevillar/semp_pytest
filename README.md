@@ -70,7 +70,7 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
   * Task 1: Run the tests using the command: $ pytest -q test_wallet.py You should see the following output: pass 
   * Task 2: Amend the code so that the tests fail.
 
- ## My results: 
+# My results: 
  
 >  :white_check_mark: Result for Task 1:
 
