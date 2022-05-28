@@ -27,7 +27,7 @@ class Wallet(object):
         self.balance += amount
 ```
 
-* [code source](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+:arrow_forward: [code source](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
 ## Step 2: 
 
@@ -61,7 +61,7 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
         wallet.spend_cash(100)
 ```
 
-* [Code Source](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
+:arrow_forward: [Code Source](https://semaphoreci.com/community/tutorials/testing-python-applications-with-pytest)
 
 
 
