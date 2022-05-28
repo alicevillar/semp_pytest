@@ -65,14 +65,12 @@ def test_wallet_spend_cash_raises_exception_on_insufficient_amount():
 
 
 
-### :paperclip: TASK 1: 
+### :paperclip: CODIO TASKS: 
 
-  * Question A: Run the tests using the command: $ pytest -q test_wallet.py You should see the following output: pass 
-  
-### :paperclip: TASK 2: 
-
-* Amend the code so that the tests fail.
+  * Task 1: Run the tests using the command: $ pytest -q test_wallet.py You should see the following output: pass 
+  * Task 2: Amend the code so that the tests fail.
 
 ## My results: 
+
 
 
